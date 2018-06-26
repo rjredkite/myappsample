@@ -1,1 +1,10 @@
-error logs
+git init run ... 
+name 
+email
+git add . 
+git commit m ''
+I for insert
+escape :wq
+git checkout master - check controller
+git branch name
+git merge login
