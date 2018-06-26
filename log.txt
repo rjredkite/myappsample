@@ -8,3 +8,9 @@ escape :wq
 git checkout master - check controller
 git branch name
 git merge login
+git push -u origin master
+git remote
+git remote add origin https://github.com/rjredkite/myappsample.git
+git orgin
+git clone
+git pull
